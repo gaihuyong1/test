@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\E\\vue\\MyLife\\MyApi\\ApiTest\\ApiTest.csproj": {}
+    "D:\\E\\test\\ApiTest\\ApiTest.csproj": {}
   },
   "projects": {
-    "D:\\E\\vue\\MyLife\\MyApi\\ApiTest\\ApiTest.csproj": {
+    "D:\\E\\test\\ApiTest\\ApiTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\E\\vue\\MyLife\\MyApi\\ApiTest\\ApiTest.csproj",
+        "projectUniqueName": "D:\\E\\test\\ApiTest\\ApiTest.csproj",
         "projectName": "ApiTest",
-        "projectPath": "D:\\E\\vue\\MyLife\\MyApi\\ApiTest\\ApiTest.csproj",
+        "projectPath": "D:\\E\\test\\ApiTest\\ApiTest.csproj",
         "packagesPath": "C:\\Users\\rick\\.nuget\\packages\\",
-        "outputPath": "D:\\E\\vue\\MyLife\\MyApi\\ApiTest\\obj\\",
+        "outputPath": "D:\\E\\test\\ApiTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rick\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,8 +27,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\E\\vue\\MyLife\\MyApi\\MyApi\\MyApi.csproj": {
-                "projectPath": "D:\\E\\vue\\MyLife\\MyApi\\MyApi\\MyApi.csproj"
+              "D:\\E\\test\\MyApi\\MyApi.csproj": {
+                "projectPath": "D:\\E\\test\\MyApi\\MyApi.csproj"
               }
             }
           }
@@ -84,14 +84,14 @@
         }
       }
     },
-    "D:\\E\\vue\\MyLife\\MyApi\\MyApi\\MyApi.csproj": {
+    "D:\\E\\test\\MyApi\\MyApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\E\\vue\\MyLife\\MyApi\\MyApi\\MyApi.csproj",
+        "projectUniqueName": "D:\\E\\test\\MyApi\\MyApi.csproj",
         "projectName": "MyApi",
-        "projectPath": "D:\\E\\vue\\MyLife\\MyApi\\MyApi\\MyApi.csproj",
+        "projectPath": "D:\\E\\test\\MyApi\\MyApi.csproj",
         "packagesPath": "C:\\Users\\rick\\.nuget\\packages\\",
-        "outputPath": "D:\\E\\vue\\MyLife\\MyApi\\MyApi\\obj\\",
+        "outputPath": "D:\\E\\test\\MyApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rick\\AppData\\Roaming\\NuGet\\NuGet.Config",

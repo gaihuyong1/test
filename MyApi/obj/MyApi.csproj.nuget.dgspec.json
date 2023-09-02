@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\E\\vue\\MyLife\\MyApi\\MyApi\\MyApi.csproj": {}
+    "D:\\E\\test\\MyApi\\MyApi.csproj": {}
   },
   "projects": {
-    "D:\\E\\vue\\MyLife\\MyApi\\MyApi\\MyApi.csproj": {
+    "D:\\E\\test\\MyApi\\MyApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\E\\vue\\MyLife\\MyApi\\MyApi\\MyApi.csproj",
+        "projectUniqueName": "D:\\E\\test\\MyApi\\MyApi.csproj",
         "projectName": "MyApi",
-        "projectPath": "D:\\E\\vue\\MyLife\\MyApi\\MyApi\\MyApi.csproj",
+        "projectPath": "D:\\E\\test\\MyApi\\MyApi.csproj",
         "packagesPath": "C:\\Users\\rick\\.nuget\\packages\\",
-        "outputPath": "D:\\E\\vue\\MyLife\\MyApi\\MyApi\\obj\\",
+        "outputPath": "D:\\E\\test\\MyApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rick\\AppData\\Roaming\\NuGet\\NuGet.Config",

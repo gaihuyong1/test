@@ -6,5 +6,9 @@
         {
             return "rain";
         }
+        public string GetTomorrowWeather()
+        {
+            return "sun";
+        }
     }
 }

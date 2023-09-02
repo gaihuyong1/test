@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uImR4py3YFaBDOHkUR1z2j3hgd5oh6CEsPZxL6foiHRYMOYvjEHysVAW6aEZ8e7TIhJnoWFCA3rhW4/ms6TBaA==",
+  "dgSpecHash": "MFd1czgCwWi9mA6nVHD4Y0xYZ6bI6w19lQqP0Nc4Ca0Az0rI+jNfcKIfPFppQlNlFq7y8HfeqB3cogVCUq1LDA==",
   "success": true,
-  "projectFilePath": "D:\\E\\vue\\MyLife\\MyApi\\ApiTest\\ApiTest.csproj",
+  "projectFilePath": "D:\\E\\test\\ApiTest\\ApiTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rick\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\rick\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.7\\microsoft.aspnetcore.openapi.7.0.7.nupkg.sha512",

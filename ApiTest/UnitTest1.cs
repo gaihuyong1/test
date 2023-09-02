@@ -8,8 +8,8 @@ namespace ApiTest
         public void Test1()
         {
             var service=new WeatherService();
-            var today=service.GetTodayWeather();
-            Assert.Equal("rain", today);
+            var tomorrow=service.GetTodayWeather();
+            Assert.Equal("rain", tomorrow);
         }
     }
 }
